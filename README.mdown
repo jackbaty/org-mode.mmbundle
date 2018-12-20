@@ -2,7 +2,7 @@
 
 org-mode for mailmate can be used to append a org-mode file with a TODO + title and link to email and optionally contents of message or selection.
 
-Currently hardcoded to append to `~/Dropbox/notes/inbox.org`.
+Currently hardcoded to append to `~/Dropbox/org/tasks.org`.
 
 # Installation
 
