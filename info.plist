@@ -9,7 +9,7 @@
 	<key>description</key>
 	<string>Integration with org-mode files.</string>
 	<key>name</key>
-	<string>org-mode</string>
+	<string>jab-org-mode</string>
 	<key>uuid</key>
 	<string>99AF4B6A-AD0B-4E15-8CE9-5996AE3F44EA</string>
 </dict>
