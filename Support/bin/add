@@ -5,7 +5,7 @@ require 'cgi'
 
 subject = ENV['MM_SUBJECT']
 #note = "Email: message://%3c" + ENV['MM_MESSAGE_ID'] + "%3e"
-note = "[[Email|message://%3c" + ENV['MM_MESSAGE_ID'] + "%3e]]"
+note = "[[message://%3c" + ENV['MM_MESSAGE_ID'] + "%3e][Email]]"
 
 range_string = ENV['MM_SELECTED_RANGE']
 selection = ""
